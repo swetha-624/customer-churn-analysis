@@ -1,3 +1,4 @@
+![Customer Churn Analysis](https://github.com/swetha-624/customer-churn-analysis/blob/main/customer_pic.webp)
 # Customer Churn Analysis
 This project analyzes customer churn and identifies key factors contributing to customer departure. The objective is to understand patterns behind churn and build a model to predict which customers are likely to leave.
 
